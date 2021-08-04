@@ -4,7 +4,7 @@ on:
   release:
     types: [released]
     branches:
-      - main
+      - feat/readme
 
 jobs:
   publish:
